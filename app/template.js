@@ -1,0 +1,1 @@
+export default function Template({children}){return <><nav aria-label="Main navigation"><a href="/">Connection test</a>{' / '}<a href="/profile">vinhweb profile</a>{' / '}<a href="/about">About</a></nav>{children}</>}

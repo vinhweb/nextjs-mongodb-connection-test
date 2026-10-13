@@ -1,0 +1,47 @@
+.about {
+  margin: 5vh auto;
+}
+
+.section {
+  margin-top: 32px;
+}
+
+.section p {
+  color: #53665d;
+  line-height: 1.65;
+}
+
+.values {
+  display: grid;
+  gap: 12px;
+}
+
+.card {
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #dae4d8;
+  border-radius: 12px;
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 17px;
+}
+
+.card p {
+  margin: 8px 0 0;
+}
+
+.link {
+  display: inline-block;
+  padding: 14px 20px;
+  border-radius: 9px;
+  background: #176340;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.link:hover {
+  background: #104c30;
+}
