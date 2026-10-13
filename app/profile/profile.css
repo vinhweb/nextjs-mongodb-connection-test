@@ -1,0 +1,2 @@
+.profile{margin:5vh auto}.avatar{display:grid;place-items:center;width:72px;height:72px;background:#17352b;color:#d2ef9d;border-radius:22px;font-size:36px;font-weight:bold}.profile h1 span{color:#76a448}.profile section{margin:28px 0}.profile p{line-height:1.65}.tags{display:flex;flex-wrap:wrap;gap:8px}.tags span,article{background:white;border:1px solid #dae4d8;border-radius:12px;padding:10px 14px}article{margin:12px 0}small{color:#557366}
+nav{padding:20px 28px;font-size:14px}
